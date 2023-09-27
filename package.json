@@ -1,0 +1,46 @@
+{
+  "name": "hi-group-vsc-extension-pack",
+  "displayName": "Hi-group Extension Pack",
+  "description": "Visual Studio Code extensions for Hi-group developers",
+  "version": "0.0.1",
+  "publisher": "b0jia",
+  "icon": "icon.png",
+  "repository": "https://github.com/hi-group-tw/hi-group-vsc-extension-pack",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#19A5E1",
+    "theme": "light"
+  },
+  "keywords": [
+    "higroup",
+    "hi-group"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-rename-tag",
+    "alefragnani.Bookmarks",
+    "wmaurer.change-case",
+    "oouo-diogo-perdigao.docthis",
+    "mikestead.dotenv",
+    "vilicvane.es-quotes",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "oliversturm.fix-json",
+    "PKief.material-icon-theme",
+    "zhuangtongfa.material-theme",
+    "nhoizey.gremlins",
+    "zignd.html-css-class-completion",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "syler.sass-indented",
+    "mrmlnc.vscode-scss",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "richie5um2.vscode-sort-json",
+    "stylelint.vscode-stylelint"
+  ]
+}
